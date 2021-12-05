@@ -1,0 +1,47 @@
+@charset "ISO-8859-1";
+body {
+	text-align: center;
+	background-color: yellow;
+}
+h1 {
+	text-align:center;
+	color: red;
+	text-decoration: underline;
+	
+}
+
+hr {
+	
+	background: blue;
+}
+label {
+	
+	color: white;
+	background-color: black;
+}
+button {
+	background-color: blue;
+	color: white;
+	
+}
+table {
+	width: 100%;
+	
+}
+th {
+	text-align:center;
+	background-color: silver;
+	color: blue;
+}
+tr {
+	text-align: center;
+}
+button {
+	position: relative;
+}
+form {
+	position: relative;
+}
+label {
+	text-align: justify;
+}
